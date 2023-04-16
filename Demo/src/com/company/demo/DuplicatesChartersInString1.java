@@ -27,9 +27,9 @@ public class DuplicatesChartersInString1 {
 
             }
         }
+        // find the word contains repeated words
         if (charCount>0){
             System.out.println("word repeated"+temp+   "repeat count"+charCount);
-
         }
         }
     }
