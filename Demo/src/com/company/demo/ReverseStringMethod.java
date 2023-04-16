@@ -2,6 +2,10 @@ package com.company.demo;
 
 import java.util.Scanner;
 
+/***
+ * This class contain the logic for reverse of String in three methods like
+ * using inbuilt function reverse(),and using toCharArray and split method approach 
+ */
 public class ReverseStringMethod {
     public static void main(String[] args) {
         // Method 1
