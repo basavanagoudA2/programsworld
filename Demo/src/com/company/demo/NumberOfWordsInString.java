@@ -7,6 +7,7 @@ public class NumberOfWordsInString {
 
     public static void main(String[] args) {
         String str = "basavanagoud is very good character person basavanagoud is not good boy";
+        //below logic for find the number of words in the String
         String[] strArr = str.split(" ");
         Map<String, Integer> stringIntegerMap = new HashMap<String, Integer>();
         for (int i=0;i<strArr.length;i++){
