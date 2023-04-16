@@ -2,6 +2,9 @@ package com.company.demo;
 
 import java.util.Scanner;
 
+/**
+ * Below program for to check the given number is palindrome or not
+ */
 public class PalindromeOrNot {
     public static void main(String[] args) {
         String original,reverse="";
