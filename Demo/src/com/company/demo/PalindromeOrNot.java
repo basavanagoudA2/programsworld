@@ -6,6 +6,11 @@ import java.util.Scanner;
  * Below program for to check the given number is palindrome or not
  */
 public class PalindromeOrNot {
+    /**
+     * This method used for to check the if given input original or reverse same than we can called
+     * palindrome number
+     * @param args
+     */
     public static void main(String[] args) {
         String original,reverse="";
         Scanner in=new Scanner(System.in);
